@@ -1,0 +1,29 @@
+body {
+	background-color:#0b1026;
+  	font-size: 18px;
+    color: #e6ecff;
+    text-align: center;
+}
+header {
+	background-color: #111a3d;
+  	border: 2px solid #89a8ff;
+}
+h1 {
+	color: #ffffff;
+  	font-size: 42px;
+}
+h2{
+	color: #ffd700;
+  	font-size: 30px;
+}
+a{
+   color: #00bfff;
+}
+img{
+	border: 2px solid #89a8ff;
+}
+
+footer{
+    background-color: #111a3d;
+  	border: 2px solid #89a8ff;
+}
